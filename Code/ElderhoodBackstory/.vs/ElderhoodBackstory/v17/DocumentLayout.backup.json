@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5908A7A8-9A4C-40C6-B2BD-B17C4803C768}|ElderhoodBackstory.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\patches\\racepatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5908A7A8-9A4C-40C6-B2BD-B17C4803C768}|ElderhoodBackstory.csproj|solutionrelative:patches\\racepatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5908A7A8-9A4C-40C6-B2BD-B17C4803C768}|ElderhoodBackstory.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\patches\\charactercardutility_doleftsection_elderhoodbackstorypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5908A7A8-9A4C-40C6-B2BD-B17C4803C768}|ElderhoodBackstory.csproj|solutionrelative:patches\\charactercardutility_doleftsection_elderhoodbackstorypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5908A7A8-9A4C-40C6-B2BD-B17C4803C768}|ElderhoodBackstory.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5908A7A8-9A4C-40C6-B2BD-B17C4803C768}|ElderhoodBackstory.csproj|solutionrelative:utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5908A7A8-9A4C-40C6-B2BD-B17C4803C768}|ElderhoodBackstory.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\patches\\pawn_getreasonsfordisabledworktype_elderhoodbackstorypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5908A7A8-9A4C-40C6-B2BD-B17C4803C768}|ElderhoodBackstory.csproj|solutionrelative:patches\\pawn_getreasonsfordisabledworktype_elderhoodbackstorypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5908A7A8-9A4C-40C6-B2BD-B17C4803C768}|ElderhoodBackstory.csproj|c:\\users\\dimon\\documents\\mods\\elderhoodbackstory\\patches\\pawn_getdisabledworktypes_filllist_elderhoodbackstorypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5908A7A8-9A4C-40C6-B2BD-B17C4803C768}|ElderhoodBackstory.csproj|solutionrelative:patches\\pawn_getdisabledworktypes_filllist_elderhoodbackstorypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5908A7A8-9A4C-40C6-B2BD-B17C4803C768}|ElderhoodBackstory.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\patches\\pawn_agetracker_birthdaybiological_elderhoodbackstorypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5908A7A8-9A4C-40C6-B2BD-B17C4803C768}|ElderhoodBackstory.csproj|solutionrelative:patches\\pawn_agetracker_birthdaybiological_elderhoodbackstorypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5908A7A8-9A4C-40C6-B2BD-B17C4803C768}|ElderhoodBackstory.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\patches\\copystoryandtraits_elderhoodbackstorypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5908A7A8-9A4C-40C6-B2BD-B17C4803C768}|ElderhoodBackstory.csproj|solutionrelative:patches\\copystoryandtraits_elderhoodbackstorypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5908A7A8-9A4C-40C6-B2BD-B17C4803C768}|ElderhoodBackstory.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\patches\\charactercardutility_getworktypedisablecauses_elderhoodbackstorypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5908A7A8-9A4C-40C6-B2BD-B17C4803C768}|ElderhoodBackstory.csproj|solutionrelative:patches\\charactercardutility_getworktypedisablecauses_elderhoodbackstorypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5908A7A8-9A4C-40C6-B2BD-B17C4803C768}|ElderhoodBackstory.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\elderhoodbackstorymod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5908A7A8-9A4C-40C6-B2BD-B17C4803C768}|ElderhoodBackstory.csproj|solutionrelative:elderhoodbackstorymod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5908A7A8-9A4C-40C6-B2BD-B17C4803C768}|ElderhoodBackstory.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\patches\\pawn_storytracker_disabledworktagsbackstoryandtraits_elderhoodbackstorypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5908A7A8-9A4C-40C6-B2BD-B17C4803C768}|ElderhoodBackstory.csproj|solutionrelative:patches\\pawn_storytracker_disabledworktagsbackstoryandtraits_elderhoodbackstorypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5908A7A8-9A4C-40C6-B2BD-B17C4803C768}|ElderhoodBackstory.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\patches\\pawngenerator_finallevelofskill_elderhoodbackstorypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5908A7A8-9A4C-40C6-B2BD-B17C4803C768}|ElderhoodBackstory.csproj|solutionrelative:patches\\pawngenerator_finallevelofskill_elderhoodbackstorypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5908A7A8-9A4C-40C6-B2BD-B17C4803C768}|ElderhoodBackstory.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\patches\\startingpawnutility_generatepossessions_elderhoodbackstorypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5908A7A8-9A4C-40C6-B2BD-B17C4803C768}|ElderhoodBackstory.csproj|solutionrelative:patches\\startingpawnutility_generatepossessions_elderhoodbackstorypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5908A7A8-9A4C-40C6-B2BD-B17C4803C768}|ElderhoodBackstory.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\patches\\pawngenerator_getbodytypefor_elderhoodbackstorypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5908A7A8-9A4C-40C6-B2BD-B17C4803C768}|ElderhoodBackstory.csproj|solutionrelative:patches\\pawngenerator_getbodytypefor_elderhoodbackstorypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5908A7A8-9A4C-40C6-B2BD-B17C4803C768}|ElderhoodBackstory.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\patches\\pawngenerator_generatetraits_elderhoodbackstorypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5908A7A8-9A4C-40C6-B2BD-B17C4803C768}|ElderhoodBackstory.csproj|solutionrelative:patches\\pawngenerator_generatetraits_elderhoodbackstorypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5908A7A8-9A4C-40C6-B2BD-B17C4803C768}|ElderhoodBackstory.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\patches\\pawnbioandnamegenerator_trygivesolidbioto_elderhoodbackstorypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5908A7A8-9A4C-40C6-B2BD-B17C4803C768}|ElderhoodBackstory.csproj|solutionrelative:patches\\pawnbioandnamegenerator_trygivesolidbioto_elderhoodbackstorypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5908A7A8-9A4C-40C6-B2BD-B17C4803C768}|ElderhoodBackstory.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\patches\\pawnbioandnamegenerator_giveshuffledbioto_elderhoodbackstorypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5908A7A8-9A4C-40C6-B2BD-B17C4803C768}|ElderhoodBackstory.csproj|solutionrelative:patches\\pawnbioandnamegenerator_giveshuffledbioto_elderhoodbackstorypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5908A7A8-9A4C-40C6-B2BD-B17C4803C768}|ElderhoodBackstory.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\patches\\pawnbioandnamegenerator_backstoryselectionweight_elderhoodbackstorypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5908A7A8-9A4C-40C6-B2BD-B17C4803C768}|ElderhoodBackstory.csproj|solutionrelative:patches\\pawnbioandnamegenerator_backstoryselectionweight_elderhoodbackstorypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5908A7A8-9A4C-40C6-B2BD-B17C4803C768}|ElderhoodBackstory.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\compproperties_elderhoodbackstory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5908A7A8-9A4C-40C6-B2BD-B17C4803C768}|ElderhoodBackstory.csproj|solutionrelative:compproperties_elderhoodbackstory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5908A7A8-9A4C-40C6-B2BD-B17C4803C768}|ElderhoodBackstory.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\compelderhoodbackstory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5908A7A8-9A4C-40C6-B2BD-B17C4803C768}|ElderhoodBackstory.csproj|solutionrelative:compelderhoodbackstory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CharacterCardUtility_DoLeftSection_ElderhoodBackstoryPatch.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\Patches\\CharacterCardUtility_DoLeftSection_ElderhoodBackstoryPatch.cs",
+              "RelativeDocumentMoniker": "Patches\\CharacterCardUtility_DoLeftSection_ElderhoodBackstoryPatch.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\Patches\\CharacterCardUtility_DoLeftSection_ElderhoodBackstoryPatch.cs",
+              "RelativeToolTip": "Patches\\CharacterCardUtility_DoLeftSection_ElderhoodBackstoryPatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T03:32:56.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PawnGenerator_FinalLevelOfSkill_ElderhoodBackstoryPatch.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\Patches\\PawnGenerator_FinalLevelOfSkill_ElderhoodBackstoryPatch.cs",
+              "RelativeDocumentMoniker": "Patches\\PawnGenerator_FinalLevelOfSkill_ElderhoodBackstoryPatch.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\Patches\\PawnGenerator_FinalLevelOfSkill_ElderhoodBackstoryPatch.cs",
+              "RelativeToolTip": "Patches\\PawnGenerator_FinalLevelOfSkill_ElderhoodBackstoryPatch.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:20:42.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pawn_GetReasonsForDisabledWorkType_ElderhoodBackstoryPatch.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\Patches\\Pawn_GetReasonsForDisabledWorkType_ElderhoodBackstoryPatch.cs",
+              "RelativeDocumentMoniker": "Patches\\Pawn_GetReasonsForDisabledWorkType_ElderhoodBackstoryPatch.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\Patches\\Pawn_GetReasonsForDisabledWorkType_ElderhoodBackstoryPatch.cs",
+              "RelativeToolTip": "Patches\\Pawn_GetReasonsForDisabledWorkType_ElderhoodBackstoryPatch.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T08:40:57.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pawn_GetDisabledWorkTypes_FillList_ElderhoodBackstoryPatch.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\Patches\\Pawn_GetDisabledWorkTypes_FillList_ElderhoodBackstoryPatch.cs",
+              "RelativeDocumentMoniker": "Patches\\Pawn_GetDisabledWorkTypes_FillList_ElderhoodBackstoryPatch.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\Patches\\Pawn_GetDisabledWorkTypes_FillList_ElderhoodBackstoryPatch.cs",
+              "RelativeToolTip": "Patches\\Pawn_GetDisabledWorkTypes_FillList_ElderhoodBackstoryPatch.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:54:00.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ElderhoodBackstoryMod.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\ElderhoodBackstoryMod.cs",
+              "RelativeDocumentMoniker": "ElderhoodBackstoryMod.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\ElderhoodBackstoryMod.cs",
+              "RelativeToolTip": "ElderhoodBackstoryMod.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIA6wCIAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T03:29:15.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StartingPawnUtility_GeneratePossessions_ElderhoodBackstoryPatch.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\Patches\\StartingPawnUtility_GeneratePossessions_ElderhoodBackstoryPatch.cs",
+              "RelativeDocumentMoniker": "Patches\\StartingPawnUtility_GeneratePossessions_ElderhoodBackstoryPatch.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\Patches\\StartingPawnUtility_GeneratePossessions_ElderhoodBackstoryPatch.cs",
+              "RelativeToolTip": "Patches\\StartingPawnUtility_GeneratePossessions_ElderhoodBackstoryPatch.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:28:35.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RacePatcher.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\Patches\\RacePatcher.cs",
+              "RelativeDocumentMoniker": "Patches\\RacePatcher.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\Patches\\RacePatcher.cs",
+              "RelativeToolTip": "Patches\\RacePatcher.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwCcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:00:53.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pawn_AgeTracker_BirthdayBiological_ElderhoodBackstoryPatch.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\Patches\\Pawn_AgeTracker_BirthdayBiological_ElderhoodBackstoryPatch.cs",
+              "RelativeDocumentMoniker": "Patches\\Pawn_AgeTracker_BirthdayBiological_ElderhoodBackstoryPatch.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\Patches\\Pawn_AgeTracker_BirthdayBiological_ElderhoodBackstoryPatch.cs",
+              "RelativeToolTip": "Patches\\Pawn_AgeTracker_BirthdayBiological_ElderhoodBackstoryPatch.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAnwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T05:53:29.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CharacterCardUtility_GetWorkTypeDisableCauses_ElderhoodBackstoryPatch.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\Patches\\CharacterCardUtility_GetWorkTypeDisableCauses_ElderhoodBackstoryPatch.cs",
+              "RelativeDocumentMoniker": "Patches\\CharacterCardUtility_GetWorkTypeDisableCauses_ElderhoodBackstoryPatch.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\Patches\\CharacterCardUtility_GetWorkTypeDisableCauses_ElderhoodBackstoryPatch.cs",
+              "RelativeToolTip": "Patches\\CharacterCardUtility_GetWorkTypeDisableCauses_ElderhoodBackstoryPatch.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T05:49:34.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PawnGenerator_GetBodyTypeFor_ElderhoodBackstoryPatch.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\Patches\\PawnGenerator_GetBodyTypeFor_ElderhoodBackstoryPatch.cs",
+              "RelativeDocumentMoniker": "Patches\\PawnGenerator_GetBodyTypeFor_ElderhoodBackstoryPatch.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\Patches\\PawnGenerator_GetBodyTypeFor_ElderhoodBackstoryPatch.cs",
+              "RelativeToolTip": "Patches\\PawnGenerator_GetBodyTypeFor_ElderhoodBackstoryPatch.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T05:41:46.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PawnGenerator_GenerateTraits_ElderhoodBackstoryPatch.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\Patches\\PawnGenerator_GenerateTraits_ElderhoodBackstoryPatch.cs",
+              "RelativeDocumentMoniker": "Patches\\PawnGenerator_GenerateTraits_ElderhoodBackstoryPatch.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\Patches\\PawnGenerator_GenerateTraits_ElderhoodBackstoryPatch.cs",
+              "RelativeToolTip": "Patches\\PawnGenerator_GenerateTraits_ElderhoodBackstoryPatch.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T05:39:24.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PawnBioAndNameGenerator_BackstorySelectionWeight_ElderhoodBackstoryPatch.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\Patches\\PawnBioAndNameGenerator_BackstorySelectionWeight_ElderhoodBackstoryPatch.cs",
+              "RelativeDocumentMoniker": "Patches\\PawnBioAndNameGenerator_BackstorySelectionWeight_ElderhoodBackstoryPatch.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\Patches\\PawnBioAndNameGenerator_BackstorySelectionWeight_ElderhoodBackstoryPatch.cs",
+              "RelativeToolTip": "Patches\\PawnBioAndNameGenerator_BackstorySelectionWeight_ElderhoodBackstoryPatch.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T04:14:57.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CopyStoryAndTraits_ElderhoodBackstoryPatch.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\Patches\\CopyStoryAndTraits_ElderhoodBackstoryPatch.cs",
+              "RelativeDocumentMoniker": "Patches\\CopyStoryAndTraits_ElderhoodBackstoryPatch.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\Patches\\CopyStoryAndTraits_ElderhoodBackstoryPatch.cs",
+              "RelativeToolTip": "Patches\\CopyStoryAndTraits_ElderhoodBackstoryPatch.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T04:12:25.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PawnBioAndNameGenerator_TryGiveSolidBioTo_ElderhoodBackstoryPatch.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\Patches\\PawnBioAndNameGenerator_TryGiveSolidBioTo_ElderhoodBackstoryPatch.cs",
+              "RelativeDocumentMoniker": "Patches\\PawnBioAndNameGenerator_TryGiveSolidBioTo_ElderhoodBackstoryPatch.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\Patches\\PawnBioAndNameGenerator_TryGiveSolidBioTo_ElderhoodBackstoryPatch.cs",
+              "RelativeToolTip": "Patches\\PawnBioAndNameGenerator_TryGiveSolidBioTo_ElderhoodBackstoryPatch.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAtwBYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T04:11:31.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PawnBioAndNameGenerator_GiveShuffledBioTo_ElderhoodBackstoryPatch.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\Patches\\PawnBioAndNameGenerator_GiveShuffledBioTo_ElderhoodBackstoryPatch.cs",
+              "RelativeDocumentMoniker": "Patches\\PawnBioAndNameGenerator_GiveShuffledBioTo_ElderhoodBackstoryPatch.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\Patches\\PawnBioAndNameGenerator_GiveShuffledBioTo_ElderhoodBackstoryPatch.cs",
+              "RelativeToolTip": "Patches\\PawnBioAndNameGenerator_GiveShuffledBioTo_ElderhoodBackstoryPatch.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAtwBcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T04:06:11.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pawn_StoryTracker_DisabledWorkTagsBackstoryAndTraits_ElderhoodBackstoryPatch.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\Patches\\Pawn_StoryTracker_DisabledWorkTagsBackstoryAndTraits_ElderhoodBackstoryPatch.cs",
+              "RelativeDocumentMoniker": "Patches\\Pawn_StoryTracker_DisabledWorkTagsBackstoryAndTraits_ElderhoodBackstoryPatch.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\Patches\\Pawn_StoryTracker_DisabledWorkTagsBackstoryAndTraits_ElderhoodBackstoryPatch.cs",
+              "RelativeToolTip": "Patches\\Pawn_StoryTracker_DisabledWorkTagsBackstoryAndTraits_ElderhoodBackstoryPatch.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T04:01:58.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CompProperties_ElderhoodBackstory.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\CompProperties_ElderhoodBackstory.cs",
+              "RelativeDocumentMoniker": "CompProperties_ElderhoodBackstory.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\CompProperties_ElderhoodBackstory.cs",
+              "RelativeToolTip": "CompProperties_ElderhoodBackstory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T03:58:52.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CompElderhoodBackstory.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\CompElderhoodBackstory.cs",
+              "RelativeDocumentMoniker": "CompElderhoodBackstory.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\CompElderhoodBackstory.cs",
+              "RelativeToolTip": "CompElderhoodBackstory.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T03:58:02.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\Utility.cs",
+              "RelativeDocumentMoniker": "Utility.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ElderhoodBackstory\\Utility.cs",
+              "RelativeToolTip": "Utility.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T03:49:58.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

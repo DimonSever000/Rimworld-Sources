@@ -1,0 +1,8 @@
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Science Rework\1.6\Assemblies\ScienceRework.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Science Rework\1.6\Assemblies\ScienceRework.pdb
+C:\Users\Dimon\Documents\Mods\ScienceRework\obj\Debug\ScienceRework.csproj.AssemblyReference.cache
+C:\Users\Dimon\Documents\Mods\ScienceRework\obj\Debug\ScienceRework.csproj.CoreCompileInputs.cache
+C:\Users\Dimon\Documents\Mods\ScienceRework\obj\Debug\ScienceRework.dll
+C:\Users\Dimon\Documents\Mods\ScienceRework\obj\Debug\ScienceRework.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Rim Education\1.6\Assemblies\ScienceRework.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Rim Education\1.6\Assemblies\ScienceRework.pdb

@@ -1,0 +1,8 @@
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Elderhood Backstory\1.5\Assemblies\ElderhoodBackstory.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Elderhood Backstory\1.5\Assemblies\ElderhoodBackstory.pdb
+C:\Users\Dimon\Documents\Mods\ElderhoodBackstory\obj\Debug\ElderhoodBackstory.csproj.AssemblyReference.cache
+C:\Users\Dimon\Documents\Mods\ElderhoodBackstory\obj\Debug\ElderhoodBackstory.csproj.CoreCompileInputs.cache
+C:\Users\Dimon\Documents\Mods\ElderhoodBackstory\obj\Debug\ElderhoodBackstory.dll
+C:\Users\Dimon\Documents\Mods\ElderhoodBackstory\obj\Debug\ElderhoodBackstory.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Elderhood Backstory\1.6\Assemblies\ElderhoodBackstory.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Elderhood Backstory\1.6\Assemblies\ElderhoodBackstory.pdb

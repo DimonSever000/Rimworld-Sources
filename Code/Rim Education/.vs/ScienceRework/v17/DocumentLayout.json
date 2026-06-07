@@ -1,0 +1,474 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\patches\\book_onbookreadtick_sciencereworkpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|solutionrelative:patches\\book_onbookreadtick_sciencereworkpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|c:\\users\\dimon\\documents\\mods\\sciencerework\\scenpart_forcededucation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|solutionrelative:scenpart_forcededucation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\educationdef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|solutionrelative:educationdef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|solutionrelative:utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\studentutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|solutionrelative:studentutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\ai\\workgivers\\workgiver_teachforeducation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|solutionrelative:ai\\workgivers\\workgiver_teachforeducation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\ai\\jobs\\jobdriver_lessongivingadult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|solutionrelative:ai\\jobs\\jobdriver_lessongivingadult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\ai\\jobs\\jobdriver_lessontakingadult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|solutionrelative:ai\\jobs\\jobdriver_lessontakingadult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\ai\\workgivers\\workgiver_learnforeducation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|solutionrelative:ai\\workgivers\\workgiver_learnforeducation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\patches\\learningutility_learningtickcheckend_sciencereworkpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|solutionrelative:patches\\learningutility_learningtickcheckend_sciencereworkpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\rituals\\ritualoutcomeeffectworker_lessonforeducation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|solutionrelative:rituals\\ritualoutcomeeffectworker_lessonforeducation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\comppawneducation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|solutionrelative:comppawneducation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\patches\\readingoutcomedoergainresearch_onreadingtick_sciencereworkpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|solutionrelative:patches\\readingoutcomedoergainresearch_onreadingtick_sciencereworkpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\patches\\readingoutcomedoergainresearch_getbenefitsstring_sciencereworkpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|solutionrelative:patches\\readingoutcomedoergainresearch_getbenefitsstring_sciencereworkpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\patches\\readingoutcomedoergainresearch_doesprovidesoutcome_sciencereworkpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|solutionrelative:patches\\readingoutcomedoergainresearch_doesprovidesoutcome_sciencereworkpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|solutionrelative:settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\patches\\researchprojectdef_gettip_sciencereworkpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|solutionrelative:patches\\researchprojectdef_gettip_sciencereworkpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\sciencereworkmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|solutionrelative:sciencereworkmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\debugtools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|solutionrelative:debugtools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\rituals\\ritualobligationtargetworker_ritualspotorlectern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|solutionrelative:rituals\\ritualobligationtargetworker_ritualspotorlectern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\rituals\\ritualtargetfilter_lecternorritualsspot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|solutionrelative:rituals\\ritualtargetfilter_lecternorritualsspot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\jobdefoflocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|solutionrelative:jobdefoflocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\rituals\\ritualroleeducation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|solutionrelative:rituals\\ritualroleeducation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\rituals\\ritualrolestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|solutionrelative:rituals\\ritualrolestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\rituals\\ritualroleteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B2E6C4-5DE9-44A3-B96A-4EC3F6311DC4}|ScienceRework.csproj|solutionrelative:rituals\\ritualroleteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScenPart_ForcedEducation.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\ScenPart_ForcedEducation.cs",
+              "RelativeDocumentMoniker": "ScenPart_ForcedEducation.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\ScenPart_ForcedEducation.cs",
+              "RelativeToolTip": "ScenPart_ForcedEducation.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA1wC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T11:09:31.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LearningUtility_LearningTickCheckEnd_ScienceReworkPatch.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\Patches\\LearningUtility_LearningTickCheckEnd_ScienceReworkPatch.cs",
+              "RelativeDocumentMoniker": "Patches\\LearningUtility_LearningTickCheckEnd_ScienceReworkPatch.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\Patches\\LearningUtility_LearningTickCheckEnd_ScienceReworkPatch.cs",
+              "RelativeToolTip": "Patches\\LearningUtility_LearningTickCheckEnd_ScienceReworkPatch.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAEwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T14:21:47.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book_OnBookReadTick_ScienceReworkPatch.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\Patches\\Book_OnBookReadTick_ScienceReworkPatch.cs",
+              "RelativeDocumentMoniker": "Patches\\Book_OnBookReadTick_ScienceReworkPatch.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\Patches\\Book_OnBookReadTick_ScienceReworkPatch.cs",
+              "RelativeToolTip": "Patches\\Book_OnBookReadTick_ScienceReworkPatch.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAnwB4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T05:55:21.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReadingOutcomeDoerGainResearch_OnReadingTick_ScienceReworkPatch.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\Patches\\ReadingOutcomeDoerGainResearch_OnReadingTick_ScienceReworkPatch.cs",
+              "RelativeDocumentMoniker": "Patches\\ReadingOutcomeDoerGainResearch_OnReadingTick_ScienceReworkPatch.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\Patches\\ReadingOutcomeDoerGainResearch_OnReadingTick_ScienceReworkPatch.cs",
+              "RelativeToolTip": "Patches\\ReadingOutcomeDoerGainResearch_OnReadingTick_ScienceReworkPatch.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T05:53:31.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReadingOutcomeDoerGainResearch_DoesProvidesOutcome_ScienceReworkPatch.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\Patches\\ReadingOutcomeDoerGainResearch_DoesProvidesOutcome_ScienceReworkPatch.cs",
+              "RelativeDocumentMoniker": "Patches\\ReadingOutcomeDoerGainResearch_DoesProvidesOutcome_ScienceReworkPatch.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\Patches\\ReadingOutcomeDoerGainResearch_DoesProvidesOutcome_ScienceReworkPatch.cs",
+              "RelativeToolTip": "Patches\\ReadingOutcomeDoerGainResearch_DoesProvidesOutcome_ScienceReworkPatch.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T05:53:18.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReadingOutcomeDoerGainResearch_GetBenefitsString_ScienceReworkPatch.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\Patches\\ReadingOutcomeDoerGainResearch_GetBenefitsString_ScienceReworkPatch.cs",
+              "RelativeDocumentMoniker": "Patches\\ReadingOutcomeDoerGainResearch_GetBenefitsString_ScienceReworkPatch.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\Patches\\ReadingOutcomeDoerGainResearch_GetBenefitsString_ScienceReworkPatch.cs",
+              "RelativeToolTip": "Patches\\ReadingOutcomeDoerGainResearch_GetBenefitsString_ScienceReworkPatch.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwDwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T05:40:55.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ResearchProjectDef_GetTip_ScienceReworkPatch.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\Patches\\ResearchProjectDef_GetTip_ScienceReworkPatch.cs",
+              "RelativeDocumentMoniker": "Patches\\ResearchProjectDef_GetTip_ScienceReworkPatch.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\Patches\\ResearchProjectDef_GetTip_ScienceReworkPatch.cs",
+              "RelativeToolTip": "Patches\\ResearchProjectDef_GetTip_ScienceReworkPatch.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T05:35:59.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ScienceReworkMod.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\ScienceReworkMod.cs",
+              "RelativeDocumentMoniker": "ScienceReworkMod.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\ScienceReworkMod.cs",
+              "RelativeToolTip": "ScienceReworkMod.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T04:15:52.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\Settings.cs",
+              "RelativeDocumentMoniker": "Settings.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\Settings.cs",
+              "RelativeToolTip": "Settings.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAlwFQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T03:51:25.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EducationDef.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\EducationDef.cs",
+              "RelativeDocumentMoniker": "EducationDef.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\EducationDef.cs",
+              "RelativeToolTip": "EducationDef.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwDYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T06:15:21.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RitualOutcomeEffectWorker_LessonForEducation.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\Rituals\\RitualOutcomeEffectWorker_LessonForEducation.cs",
+              "RelativeDocumentMoniker": "Rituals\\RitualOutcomeEffectWorker_LessonForEducation.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\Rituals\\RitualOutcomeEffectWorker_LessonForEducation.cs",
+              "RelativeToolTip": "Rituals\\RitualOutcomeEffectWorker_LessonForEducation.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAIA4wCYAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T03:53:10.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JobDriver_LessongivingAdult.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\AI\\Jobs\\JobDriver_LessongivingAdult.cs",
+              "RelativeDocumentMoniker": "AI\\Jobs\\JobDriver_LessongivingAdult.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\AI\\Jobs\\JobDriver_LessongivingAdult.cs",
+              "RelativeToolTip": "AI\\Jobs\\JobDriver_LessongivingAdult.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIAwwCoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T03:56:47.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DebugTools.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\DebugTools.cs",
+              "RelativeDocumentMoniker": "DebugTools.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\DebugTools.cs",
+              "RelativeToolTip": "DebugTools.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T13:02:41.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "JobDefOfLocal.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\JobDefOfLocal.cs",
+              "RelativeDocumentMoniker": "JobDefOfLocal.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\JobDefOfLocal.cs",
+              "RelativeToolTip": "JobDefOfLocal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T12:59:23.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WorkGiver_LearnForEducation.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\AI\\WorkGivers\\WorkGiver_LearnForEducation.cs",
+              "RelativeDocumentMoniker": "AI\\WorkGivers\\WorkGiver_LearnForEducation.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\AI\\WorkGivers\\WorkGiver_LearnForEducation.cs",
+              "RelativeToolTip": "AI\\WorkGivers\\WorkGiver_LearnForEducation.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T12:23:08.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WorkGiver_TeachForEducation.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\AI\\WorkGivers\\WorkGiver_TeachForEducation.cs",
+              "RelativeDocumentMoniker": "AI\\WorkGivers\\WorkGiver_TeachForEducation.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\AI\\WorkGivers\\WorkGiver_TeachForEducation.cs",
+              "RelativeToolTip": "AI\\WorkGivers\\WorkGiver_TeachForEducation.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wCUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T05:21:35.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RitualRoleStudent.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\Rituals\\RitualRoleStudent.cs",
+              "RelativeDocumentMoniker": "Rituals\\RitualRoleStudent.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\Rituals\\RitualRoleStudent.cs",
+              "RelativeToolTip": "Rituals\\RitualRoleStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T05:21:44.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RitualRoleTeacher.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\Rituals\\RitualRoleTeacher.cs",
+              "RelativeDocumentMoniker": "Rituals\\RitualRoleTeacher.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\Rituals\\RitualRoleTeacher.cs",
+              "RelativeToolTip": "Rituals\\RitualRoleTeacher.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T05:16:24.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RitualRoleEducation.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\Rituals\\RitualRoleEducation.cs",
+              "RelativeDocumentMoniker": "Rituals\\RitualRoleEducation.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\Rituals\\RitualRoleEducation.cs",
+              "RelativeToolTip": "Rituals\\RitualRoleEducation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T05:20:57.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CompPawnEducation.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\CompPawnEducation.cs",
+              "RelativeDocumentMoniker": "CompPawnEducation.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\CompPawnEducation.cs",
+              "RelativeToolTip": "CompPawnEducation.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAApwCEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T03:13:03.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RitualTargetFilter_LecternOrRitualsSpot.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\Rituals\\RitualTargetFilter_LecternOrRitualsSpot.cs",
+              "RelativeDocumentMoniker": "Rituals\\RitualTargetFilter_LecternOrRitualsSpot.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\Rituals\\RitualTargetFilter_LecternOrRitualsSpot.cs",
+              "RelativeToolTip": "Rituals\\RitualTargetFilter_LecternOrRitualsSpot.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T14:38:27.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RitualObligationTargetWorker_RitualSpotOrLectern.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\Rituals\\RitualObligationTargetWorker_RitualSpotOrLectern.cs",
+              "RelativeDocumentMoniker": "Rituals\\RitualObligationTargetWorker_RitualSpotOrLectern.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\Rituals\\RitualObligationTargetWorker_RitualSpotOrLectern.cs",
+              "RelativeToolTip": "Rituals\\RitualObligationTargetWorker_RitualSpotOrLectern.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T14:32:19.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobDriver_LessontakingAdult.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\AI\\Jobs\\JobDriver_LessontakingAdult.cs",
+              "RelativeDocumentMoniker": "AI\\Jobs\\JobDriver_LessontakingAdult.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\AI\\Jobs\\JobDriver_LessontakingAdult.cs",
+              "RelativeToolTip": "AI\\Jobs\\JobDriver_LessontakingAdult.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAMwB4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T04:01:49.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentUtility.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\StudentUtility.cs",
+              "RelativeDocumentMoniker": "StudentUtility.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\StudentUtility.cs",
+              "RelativeToolTip": "StudentUtility.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAnwFwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T03:46:00.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\Utility.cs",
+              "RelativeDocumentMoniker": "Utility.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\ScienceRework\\Utility.cs",
+              "RelativeToolTip": "Utility.cs",
+              "ViewState": "AgIAAEYBAAAAAAAAAAAAAEYBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T03:44:46.942Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
