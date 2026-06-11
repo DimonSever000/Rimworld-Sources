@@ -279,7 +279,7 @@ namespace ScienceRework
         }
 
         /// <summary>
-        /// Приоритет по возрастанию: Раса -> Фракция -> Титул -> Предыстория -> PawnKind
+        /// Приоритет по возрастанию: Раса -> Фракция -> Титул -> Предыстория -> CreepJoiner -> PawnKind
         /// </summary>
         public static bool TryGenerateEducationFor(Pawn pawn, out EducationDef education)
         {
@@ -328,6 +328,26 @@ namespace ScienceRework
             return EducationDefOfLocal.Uneducated;
         }
 
+        public static bool TryGenerateEducationForPawnKind(Pawn pawn, out EducationDef education)
+        {
+            education = null;
+
+            if (pawn.kindDef != null)
+            {
+                DefModExtension_EducationSettings extension = pawn.kindDef.GetModExtension<DefModExtension_EducationSettings>();
+
+                if (extension?.educationSet != null)
+                {
+                    if (extension.educationSet.TryGenerateEducation(out education))
+                    {
+                        return true;
+                    }
+                }
+            }
+
+            return false;
+        }
+
         public static bool TryGenerateEducationForBackstories(Pawn pawn, out EducationDef education)
         {
             education = null;
@@ -355,26 +375,6 @@ namespace ScienceRework
             }
 
             return education != null;
-        }
-
-        public static bool TryGenerateEducationForPawnKind(Pawn pawn, out EducationDef education)
-        {
-            education = null;
-
-            if (pawn.kindDef != null)
-            {
-                DefModExtension_EducationSettings extension = pawn.kindDef.GetModExtension<DefModExtension_EducationSettings>();
-
-                if (extension?.educationSet != null)
-                {
-                    if (extension.educationSet.TryGenerateEducation(out education))
-                    {
-                        return true;
-                    }
-                }
-            }
-
-            return false;
         }
 
         public static bool TryGenerateEducationForTitle(Pawn pawn, out EducationDef education)
