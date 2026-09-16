@@ -33,7 +33,7 @@ namespace ScienceRework.Patches
 
             float amount = Utility.BasicLearnXpPerTick * factor;
 
-            pawn.TryLearnForEducation(pawn, amount);
+            pawn.TryLearnForEducation(null, amount);
         }
     }
 }

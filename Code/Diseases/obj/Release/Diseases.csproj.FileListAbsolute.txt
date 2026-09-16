@@ -1,0 +1,31 @@
+C:\Users\Dimon\Desktop\Diseases\bin\Release\Diseases.dll
+C:\Users\Dimon\Desktop\Diseases\bin\Release\Diseases.pdb
+C:\Users\Dimon\Desktop\Diseases\bin\Release\0Harmony.dll
+C:\Users\Dimon\Desktop\Diseases\obj\Release\Diseases.csproj.CoreCompileInputs.cache
+C:\Users\Dimon\Desktop\Diseases\obj\Release\Diseases.csproj.CopyComplete
+C:\Users\Dimon\Desktop\Diseases\obj\Release\Diseases.dll
+C:\Users\Dimon\Desktop\Diseases\obj\Release\Diseases.pdb
+C:\Users\Dimon\Desktop\Rimworld+ моды\Diseases\bin\Release\Diseases.dll
+C:\Users\Dimon\Desktop\Rimworld+ моды\Diseases\bin\Release\Diseases.pdb
+C:\Users\Dimon\Desktop\Rimworld+ моды\Diseases\bin\Release\0Harmony.dll
+C:\Users\Dimon\Desktop\Rimworld+ моды\Diseases\obj\Release\Diseases.csprojAssemblyReference.cache
+C:\Users\Dimon\Desktop\Rimworld+ моды\Diseases\obj\Release\Diseases.csproj.CoreCompileInputs.cache
+C:\Users\Dimon\Desktop\Rimworld+ моды\Diseases\obj\Release\Diseases.csproj.CopyComplete
+C:\Users\Dimon\Desktop\Rimworld+ моды\Diseases\obj\Release\Diseases.dll
+C:\Users\Dimon\Desktop\Rimworld+ моды\Diseases\obj\Release\Diseases.pdb
+C:\Users\Dimon\Documents\Mods\Diseases\bin\Release\Diseases.dll
+C:\Users\Dimon\Documents\Mods\Diseases\bin\Release\Diseases.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Diseases+\Assemblies\Diseases.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Diseases+\Assemblies\Diseases.pdb
+C:\Users\Dimon\Desktop\Project Paragon\RimProjectParagon\Game\Steam-1.4\Mods\Diseases+\Assemblies\Diseases.dll
+C:\Users\Dimon\Desktop\Project Paragon\RimProjectParagon\Game\Steam-1.4\Mods\Diseases+\Assemblies\Diseases.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Diseases+\1.5\Assemblies\Diseases.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Diseases+\1.5\Assemblies\Diseases.pdb
+D:\YandexDisc\YandexDisk\RimProjectParagon\Game\Steam-1.5\Mods\Diseases+\Assemblies\Diseases.dll
+D:\YandexDisc\YandexDisk\RimProjectParagon\Game\Steam-1.5\Mods\Diseases+\Assemblies\Diseases.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Diseases+\1.6\Assemblies\Diseases.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Diseases+\1.6\Assemblies\Diseases.pdb
+C:\Users\Dimon\Documents\Mods\Diseases\obj\Release\Diseases.csproj.AssemblyReference.cache
+C:\Users\Dimon\Documents\Mods\Diseases\obj\Release\Diseases.csproj.CoreCompileInputs.cache
+C:\Users\Dimon\Documents\Mods\Diseases\obj\Release\Diseases.dll
+C:\Users\Dimon\Documents\Mods\Diseases\obj\Release\Diseases.pdb

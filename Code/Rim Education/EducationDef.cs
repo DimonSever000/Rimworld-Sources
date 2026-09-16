@@ -18,7 +18,7 @@ namespace ScienceRework
 
         public ExpectationDef minExpectation;
 
-        public DevelopmentalStage developmentalStageFilter = DevelopmentalStage.Newborn | DevelopmentalStage.Baby | DevelopmentalStage.Child | DevelopmentalStage.Adult;
+        public DevelopmentalStage? developmentalStageFilter;
 
         public TechLevel maxResearchLevel;
 

@@ -316,7 +316,7 @@ namespace ScienceRework
 
             while (current != null && counter++ < 50)
             {
-                if (current.developmentalStageFilter.Has(pawn.DevelopmentalStage))
+                if (!current.developmentalStageFilter.HasValue || current.developmentalStageFilter.Value.Has(pawn.DevelopmentalStage))
                 {
                     return current;
                 }
@@ -457,6 +457,11 @@ namespace ScienceRework
             }
 
             if (pawn.MapHeld == null)
+            {
+                return false;
+            }
+
+            if (!Settings.educationExpectations)
             {
                 return false;
             }

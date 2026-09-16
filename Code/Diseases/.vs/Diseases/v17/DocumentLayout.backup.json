@@ -1,0 +1,344 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E94D8CA3-EB4F-4752-8469-F3B9F1C891A5}|Diseases.csproj|C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94D8CA3-EB4F-4752-8469-F3B9F1C891A5}|Diseases.csproj|solutionrelative:settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94D8CA3-EB4F-4752-8469-F3B9F1C891A5}|Diseases.csproj|c:\\users\\dimon\\documents\\mods\\diseases\\hediffgiver_randomstresscurved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94D8CA3-EB4F-4752-8469-F3B9F1C891A5}|Diseases.csproj|solutionrelative:hediffgiver_randomstresscurved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94D8CA3-EB4F-4752-8469-F3B9F1C891A5}|Diseases.csproj|C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\jobdriver_suicide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94D8CA3-EB4F-4752-8469-F3B9F1C891A5}|Diseases.csproj|solutionrelative:jobdriver_suicide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94D8CA3-EB4F-4752-8469-F3B9F1C891A5}|Diseases.csproj|C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\jobdefoflocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94D8CA3-EB4F-4752-8469-F3B9F1C891A5}|Diseases.csproj|solutionrelative:jobdefoflocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94D8CA3-EB4F-4752-8469-F3B9F1C891A5}|Diseases.csproj|C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\diseasesmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94D8CA3-EB4F-4752-8469-F3B9F1C891A5}|Diseases.csproj|solutionrelative:diseasesmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94D8CA3-EB4F-4752-8469-F3B9F1C891A5}|Diseases.csproj|C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\defmodextension_diseaseautopatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94D8CA3-EB4F-4752-8469-F3B9F1C891A5}|Diseases.csproj|solutionrelative:defmodextension_diseaseautopatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94D8CA3-EB4F-4752-8469-F3B9F1C891A5}|Diseases.csproj|C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\diseaseautopatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94D8CA3-EB4F-4752-8469-F3B9F1C891A5}|Diseases.csproj|solutionrelative:diseaseautopatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94D8CA3-EB4F-4752-8469-F3B9F1C891A5}|Diseases.csproj|c:\\users\\dimon\\documents\\mods\\diseases\\hediffs\\hediffcomp_disease.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94D8CA3-EB4F-4752-8469-F3B9F1C891A5}|Diseases.csproj|solutionrelative:hediffs\\hediffcomp_disease.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94D8CA3-EB4F-4752-8469-F3B9F1C891A5}|Diseases.csproj|C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\hediffs\\hediffcomp_diseaseafterticks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94D8CA3-EB4F-4752-8469-F3B9F1C891A5}|Diseases.csproj|solutionrelative:hediffs\\hediffcomp_diseaseafterticks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94D8CA3-EB4F-4752-8469-F3B9F1C891A5}|Diseases.csproj|C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\patches\\ageinjuryutility_randomhediffstogainonbirthday_diseasespatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94D8CA3-EB4F-4752-8469-F3B9F1C891A5}|Diseases.csproj|solutionrelative:patches\\ageinjuryutility_randomhediffstogainonbirthday_diseasespatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94D8CA3-EB4F-4752-8469-F3B9F1C891A5}|Diseases.csproj|C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\hediffdefoflocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94D8CA3-EB4F-4752-8469-F3B9F1C891A5}|Diseases.csproj|solutionrelative:hediffdefoflocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94D8CA3-EB4F-4752-8469-F3B9F1C891A5}|Diseases.csproj|C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\hediffs\\hediff_bipolardisorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94D8CA3-EB4F-4752-8469-F3B9F1C891A5}|Diseases.csproj|solutionrelative:hediffs\\hediff_bipolardisorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94D8CA3-EB4F-4752-8469-F3B9F1C891A5}|Diseases.csproj|C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\recipeworker_lobotomy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94D8CA3-EB4F-4752-8469-F3B9F1C891A5}|Diseases.csproj|solutionrelative:recipeworker_lobotomy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94D8CA3-EB4F-4752-8469-F3B9F1C891A5}|Diseases.csproj|C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\traitdefoflocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94D8CA3-EB4F-4752-8469-F3B9F1C891A5}|Diseases.csproj|solutionrelative:traitdefoflocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94D8CA3-EB4F-4752-8469-F3B9F1C891A5}|Diseases.csproj|C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\mentalbreakworker_suicide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94D8CA3-EB4F-4752-8469-F3B9F1C891A5}|Diseases.csproj|solutionrelative:mentalbreakworker_suicide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94D8CA3-EB4F-4752-8469-F3B9F1C891A5}|Diseases.csproj|C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\jobgiver_suicide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94D8CA3-EB4F-4752-8469-F3B9F1C891A5}|Diseases.csproj|solutionrelative:jobgiver_suicide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HediffGiver_RandomStressCurved.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\HediffGiver_RandomStressCurved.cs",
+              "RelativeDocumentMoniker": "HediffGiver_RandomStressCurved.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\HediffGiver_RandomStressCurved.cs",
+              "RelativeToolTip": "HediffGiver_RandomStressCurved.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T08:00:07.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HediffComp_Disease.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\Hediffs\\HediffComp_Disease.cs",
+              "RelativeDocumentMoniker": "Hediffs\\HediffComp_Disease.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\Hediffs\\HediffComp_Disease.cs",
+              "RelativeToolTip": "Hediffs\\HediffComp_Disease.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwCoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T05:14:53.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AgeInjuryUtility_RandomHediffsToGainOnBirthday_DiseasesPatch.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\Patches\\AgeInjuryUtility_RandomHediffsToGainOnBirthday_DiseasesPatch.cs",
+              "RelativeDocumentMoniker": "Patches\\AgeInjuryUtility_RandomHediffsToGainOnBirthday_DiseasesPatch.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\Patches\\AgeInjuryUtility_RandomHediffsToGainOnBirthday_DiseasesPatch.cs",
+              "RelativeToolTip": "Patches\\AgeInjuryUtility_RandomHediffsToGainOnBirthday_DiseasesPatch.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBUAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T05:06:19.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DiseasesMod.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\DiseasesMod.cs",
+              "RelativeDocumentMoniker": "DiseasesMod.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\DiseasesMod.cs",
+              "RelativeToolTip": "DiseasesMod.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T03:39:09.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\Settings.cs",
+              "RelativeDocumentMoniker": "Settings.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\Settings.cs",
+              "RelativeToolTip": "Settings.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAIwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T03:38:00.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DefModExtension_DiseaseAutoPatch.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\DefModExtension_DiseaseAutoPatch.cs",
+              "RelativeDocumentMoniker": "DefModExtension_DiseaseAutoPatch.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\DefModExtension_DiseaseAutoPatch.cs",
+              "RelativeToolTip": "DefModExtension_DiseaseAutoPatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T03:24:55.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DiseaseAutoPatcher.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\DiseaseAutoPatcher.cs",
+              "RelativeDocumentMoniker": "DiseaseAutoPatcher.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\DiseaseAutoPatcher.cs",
+              "RelativeToolTip": "DiseaseAutoPatcher.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T03:18:34.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HediffDefOfLocal.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\HediffDefOfLocal.cs",
+              "RelativeDocumentMoniker": "HediffDefOfLocal.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\HediffDefOfLocal.cs",
+              "RelativeToolTip": "HediffDefOfLocal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T03:22:40.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Hediff_BipolarDisorder.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\Hediffs\\Hediff_BipolarDisorder.cs",
+              "RelativeDocumentMoniker": "Hediffs\\Hediff_BipolarDisorder.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\Hediffs\\Hediff_BipolarDisorder.cs",
+              "RelativeToolTip": "Hediffs\\Hediff_BipolarDisorder.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T02:54:14.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TraitDefOfLocal.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\TraitDefOfLocal.cs",
+              "RelativeDocumentMoniker": "TraitDefOfLocal.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\TraitDefOfLocal.cs",
+              "RelativeToolTip": "TraitDefOfLocal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:05:42.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HediffComp_DiseaseAfterTicks.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\Hediffs\\HediffComp_DiseaseAfterTicks.cs",
+              "RelativeDocumentMoniker": "Hediffs\\HediffComp_DiseaseAfterTicks.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\Hediffs\\HediffComp_DiseaseAfterTicks.cs",
+              "RelativeToolTip": "Hediffs\\HediffComp_DiseaseAfterTicks.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-01-28T12:24:12.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MentalBreakWorker_Suicide.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\MentalBreakWorker_Suicide.cs",
+              "RelativeDocumentMoniker": "MentalBreakWorker_Suicide.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\MentalBreakWorker_Suicide.cs",
+              "RelativeToolTip": "MentalBreakWorker_Suicide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-09-02T04:26:41.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RecipeWorker_Lobotomy.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\RecipeWorker_Lobotomy.cs",
+              "RelativeDocumentMoniker": "RecipeWorker_Lobotomy.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\RecipeWorker_Lobotomy.cs",
+              "RelativeToolTip": "RecipeWorker_Lobotomy.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwBcAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-09-02T04:32:59.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobDefOfLocal.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\JobDefOfLocal.cs",
+              "RelativeDocumentMoniker": "JobDefOfLocal.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\JobDefOfLocal.cs",
+              "RelativeToolTip": "JobDefOfLocal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-09-02T05:01:34.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JobGiver_Suicide.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\JobGiver_Suicide.cs",
+              "RelativeDocumentMoniker": "JobGiver_Suicide.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\JobGiver_Suicide.cs",
+              "RelativeToolTip": "JobGiver_Suicide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-09-02T05:01:21.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobDriver_Suicide.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\JobDriver_Suicide.cs",
+              "RelativeDocumentMoniker": "JobDriver_Suicide.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\Diseases\\JobDriver_Suicide.cs",
+              "RelativeToolTip": "JobDriver_Suicide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-09-02T04:58:02.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

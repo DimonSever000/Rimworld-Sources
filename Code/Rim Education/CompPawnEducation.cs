@@ -44,7 +44,7 @@ namespace ScienceRework
                 return false;
             }
 
-            if (!Education.developmentalStageFilter.Has(pawn.DevelopmentalStage))
+            if (Education.developmentalStageFilter.HasValue && !Education.developmentalStageFilter.Value.Has(pawn.DevelopmentalStage))
             {
                 educationProgress = 0f;
                 return false;

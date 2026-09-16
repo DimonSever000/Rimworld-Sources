@@ -21,7 +21,7 @@ namespace ElderhoodBackstory.Patches
         private static void Postfix(ref Pawn __instance, WorkTypeDef workType, ref List<string> __result)
         {
             CompElderhoodBackstory compElderhoodBackstory = __instance.GetComp<CompElderhoodBackstory>();
-            if (compElderhoodBackstory != null && compElderhoodBackstory.Elderhood == null)
+            if (compElderhoodBackstory != null && compElderhoodBackstory.Elderhood != null)
             {
                 foreach (WorkTypeDef disabledWorkType in compElderhoodBackstory.Elderhood.DisabledWorkTypes)
                 {

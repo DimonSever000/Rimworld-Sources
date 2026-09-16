@@ -36,6 +36,8 @@ namespace ScienceRework.Rituals
                 num += 100 * (int)education.maxResearchLevel;
             }
 
+            num += (int)(100 * pawn.GetStatValue(StatDefOfLocal.EducatingSpeed));
+
             return num;
         }
     }

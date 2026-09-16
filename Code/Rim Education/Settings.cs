@@ -112,7 +112,10 @@ namespace ScienceRework
 
             Scribe_Values.Look(ref educationSpeed, "educationSpeed");
             Scribe_Values.Look(ref educationRestrictionsForResearch, "educationRestrictionsForResearch");
+            Scribe_Values.Look(ref educationRestrictionsForBooks, "educationRestrictionsForBooks");
+            Scribe_Values.Look(ref educationByReading, "educationByReading");
             Scribe_Values.Look(ref educationStats, "educationStats");
+            Scribe_Values.Look(ref educationAptitudes, "educationAptitudes");
             Scribe_Values.Look(ref educationExpectations, "educationExpectations");
             Scribe_Values.Look(ref anomalyResearchTechLevel, "anomalyResearchTechLevel");
         }

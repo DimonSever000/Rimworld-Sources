@@ -365,8 +365,11 @@
     <Compile Include="AI\Jobs\JobDriver_LessongivingAdult.cs" />
     <Compile Include="AI\WorkGivers\WorkGiver_LearnForEducation.cs" />
     <Compile Include="AI\WorkGivers\WorkGiver_TeachForEducation.cs" />
+    <Compile Include="CompProperties_EducationValidation.cs" />
+    <Compile Include="CompAbilityEffect_EducationValidation.cs" />
     <Compile Include="Patches\Book_OnBookReadTick_ScienceReworkPatch.cs" />
     <Compile Include="Patches\ResearchProjectDef_GetTip_ScienceReworkPatch.cs" />
+    <Compile Include="Rituals\RoleRequirement_MinEducationTechLevel.cs" />
     <Compile Include="Settings.cs" />
     <Compile Include="DebugTools.cs" />
     <Compile Include="EducationChance.cs" />
