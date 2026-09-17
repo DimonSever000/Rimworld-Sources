@@ -1,0 +1,6 @@
+C:\Users\Dimon\Documents\Mods\EventsCore\bin\Debug\EventsCore.dll
+C:\Users\Dimon\Documents\Mods\EventsCore\bin\Debug\EventsCore.pdb
+C:\Users\Dimon\Documents\Mods\EventsCore\obj\Debug\EventsCore.csproj.AssemblyReference.cache
+C:\Users\Dimon\Documents\Mods\EventsCore\obj\Debug\EventsCore.csproj.CoreCompileInputs.cache
+C:\Users\Dimon\Documents\Mods\EventsCore\obj\Debug\EventsCore.dll
+C:\Users\Dimon\Documents\Mods\EventsCore\obj\Debug\EventsCore.pdb

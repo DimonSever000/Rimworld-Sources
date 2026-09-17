@@ -1,0 +1,12 @@
+C:\Users\Dimon\Documents\Mods\EventsCore\bin\Release\EventsCore.dll
+C:\Users\Dimon\Documents\Mods\EventsCore\bin\Release\EventsCore.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Events+\Assemblies\EventsCore.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Events+\Assemblies\EventsCore.pdb
+C:\Users\Dimon\Documents\Mods\EventsCore\obj\Release\EventsCore.csproj.AssemblyReference.cache
+C:\Users\Dimon\Documents\Mods\EventsCore\obj\Release\EventsCore.csproj.CoreCompileInputs.cache
+C:\Users\Dimon\Documents\Mods\EventsCore\obj\Release\EventsCore.dll
+C:\Users\Dimon\Documents\Mods\EventsCore\obj\Release\EventsCore.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Events+\1.5\Assemblies\EventsCore.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Events+\1.5\Assemblies\EventsCore.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Events+\1.6\Assemblies\EventsCore.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Events+\1.6\Assemblies\EventsCore.pdb

@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{426DD724-24A7-4163-8B82-12572FD39059}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EventsCore</RootNamespace>
+    <AssemblyName>EventsCore</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>D:\SteamLibrary\steamapps\common\RimWorld\Mods\Events+\1.6\Assemblies\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="0Harmony">
+      <HintPath>..\..\..\Desktop\1.6 Libs\0Harmony.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>..\..\..\Desktop\1.6 Libs\Assembly-CSharp.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UnityEngine">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.AccessibilityModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.AccessibilityModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.AIModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.AIModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.AndroidJNIModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.AndroidJNIModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.AnimationModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.AnimationModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.ARModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.ARModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.AssetBundleModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.AssetBundleModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.AudioModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.AudioModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.ClothModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.ClothModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.ClusterInputModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.ClusterInputModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.ClusterRendererModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.ClusterRendererModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.CoreModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.CrashReportingModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.CrashReportingModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.DirectorModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.DirectorModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.DSPGraphModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.DSPGraphModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.GameCenterModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.GameCenterModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.GridModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.GridModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.HotReloadModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.HotReloadModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.ImageConversionModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.ImageConversionModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.IMGUIModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.IMGUIModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.InputLegacyModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.InputLegacyModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.InputModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.InputModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.JSONSerializeModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.JSONSerializeModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.LocalizationModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.LocalizationModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.ParticleSystemModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.ParticleSystemModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.PerformanceReportingModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.PerformanceReportingModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.Physics2DModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.Physics2DModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.PhysicsModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.PhysicsModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.ProfilerModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.ProfilerModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.ScreenCaptureModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.ScreenCaptureModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.SharedInternalsModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.SharedInternalsModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.SpriteMaskModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.SpriteMaskModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.SpriteShapeModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.SpriteShapeModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.StreamingModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.StreamingModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.SubstanceModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.SubstanceModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.SubsystemsModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.SubsystemsModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.TerrainModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.TerrainModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.TerrainPhysicsModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.TerrainPhysicsModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.TextCoreModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.TextCoreModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.TextRenderingModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.TextRenderingModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.TilemapModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.TilemapModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.TLSModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.TLSModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.UI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UIElementsModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.UIElementsModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UIModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.UIModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UmbraModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.UmbraModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UNETModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.UNETModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UnityAnalyticsModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.UnityAnalyticsModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UnityConnectModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.UnityConnectModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UnityTestProtocolModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.UnityTestProtocolModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestAssetBundleModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.UnityWebRequestAssetBundleModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestAudioModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.UnityWebRequestAudioModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.UnityWebRequestModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestTextureModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.UnityWebRequestTextureModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestWWWModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.UnityWebRequestWWWModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.VehiclesModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.VehiclesModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.VFXModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.VFXModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.VideoModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.VideoModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.VRModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.VRModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.WindModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.WindModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.XRModule">
+      <HintPath>..\..\..\Desktop\1.5 libs\UnityEngine.XRModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BiomeDefOfLocal.cs" />
+    <Compile Include="GenSteps\GenStep_WorldMeteorite.cs" />
+    <Compile Include="IncidentDefOfLocal.cs" />
+    <Compile Include="Incidents\IncidentProperties_RoadConstruction.cs" />
+    <Compile Include="Incidents\IncidentProperties_SupervolcanoExplosion.cs" />
+    <Compile Include="Incidents\IncidentProperties_RatInfestation.cs" />
+    <Compile Include="Incidents\IncidentProperties_IrrigationConstruction.cs" />
+    <Compile Include="Incidents\IncidentWorker_RoadConstruction.cs" />
+    <Compile Include="Incidents\IncidentWorker_IrrigationConstruction.cs" />
+    <Compile Include="Patches\IncidentWorker_CanFireNow_EventsCorePatch.cs" />
+    <Compile Include="Patches\Log_ResetMessageCount_EventsCorePatch.cs" />
+    <Compile Include="Quests\QuestNode_Root_WandererJoin_OldMan.cs" />
+    <Compile Include="Settings\EventModSettings.cs" />
+    <Compile Include="Settings\SettingsTabRecord_World.cs" />
+    <Compile Include="Settings\WorldSettings.cs" />
+    <Compile Include="Settings\SettingsTabRecord_IncidentAllowedSettings.cs" />
+    <Compile Include="Settings\IncidentAllowedSettings.cs" />
+    <Compile Include="Settings\SettingsTabRecord.cs" />
+    <Compile Include="Settings\SettingsTabDef.cs" />
+    <Compile Include="Settings\Settings.cs" />
+    <Compile Include="LandmarkDefOfLocal.cs" />
+    <Compile Include="TechLevelRoad.cs" />
+    <Compile Include="Incidents\IncidentProperties_WorldConstruction.cs" />
+    <Compile Include="Incidents\IncidentProperties_ArtificialChannelConstruction.cs" />
+    <Compile Include="Incidents\IncidentWorker_ArtificialChannelConstruction.cs" />
+    <Compile Include="Incidents\IncidentWorker_SupervolcanoExplosion.cs" />
+    <Compile Include="Quests\QuestNode_GetDefaultSitePartsParamsMeteorite.cs" />
+    <Compile Include="RoadDefOfLocal.cs" />
+    <Compile Include="GameConditionDefOfLocal.cs" />
+    <Compile Include="GameConditions\GameCondition_DeathOfDistantStar.cs" />
+    <Compile Include="Incidents\IncidentWorker_WorldMeteorite.cs" />
+    <Compile Include="Utilities\VolcanoUtility.cs" />
+    <Compile Include="Utilities\FactionUtility.cs" />
+    <Compile Include="Utilities\RoadUtility.cs" />
+    <Compile Include="Utilities\RiverUtility.cs" />
+    <Compile Include="WorldObjectDefOfLocal.cs" />
+    <Compile Include="QuestScriptDefOfLocal.cs" />
+    <Compile Include="GenStepDefOfLocal.cs" />
+    <Compile Include="SitePartDefOfLocal.cs" />
+    <Compile Include="FeatureDefOfLocal.cs" />
+    <Compile Include="RiverDefOfLocal.cs" />
+    <Compile Include="Utilities\UIUtility.cs" />
+    <Compile Include="Utilities\MiscUtility.cs" />
+    <Compile Include="Utilities\WorldUtility.cs" />
+    <Compile Include="Incidents\DefModExtension_IncidentProps.cs" />
+    <Compile Include="GameComponent_PlanetWeatherController.cs" />
+    <Compile Include="Incidents\IncidentProperties_ClimateChange.cs" />
+    <Compile Include="Incidents\IncidentProperties.cs" />
+    <Compile Include="GameConditions\GameCondition_ClimateChange.cs" />
+    <Compile Include="Incidents\IncidentWorkerWithProps.cs" />
+    <Compile Include="Incidents\IncidentWorker_MakeGameConditionWorld.cs" />
+    <Compile Include="Incidents\IncidentWorker_ClimateChange.cs" />
+    <Compile Include="Patches\WorldDrawLayer_Rivers_Constructor_EventsCorePatch.cs" />
+    <Compile Include="Patches\GlobalDrawLayer_Sun_Regenerate_EventsCorePatch.cs" />
+    <Compile Include="Patches\GenCelestial_CelestialSunGlowPercent_EventsCorePatch.cs" />
+    <Compile Include="GameComponent_EventsCore.cs" />
+    <Compile Include="Settings\EventsCoreMod.cs" />
+    <Compile Include="Utilities\DebugTools.cs" />
+    <Compile Include="ISunLuminosityInfluencer.cs" />
+    <Compile Include="GameConditions\GameCondition_DeathOfSun.cs" />
+    <Compile Include="GameConditions\GameCondition_PsyStorm.cs" />
+    <Compile Include="GameConditions\GameCondition_IceStorm.cs" />
+    <Compile Include="Incidents\IncidentWorker_AlliesGift.cs" />
+    <Compile Include="Incidents\IncidentWorker_RatInfestation.cs" />
+    <Compile Include="Incidents\IncidentWorker_MountainAir.cs" />
+    <Compile Include="Incidents\IncidentWorker_TurtleInvasion.cs" />
+    <Compile Include="Incidents\IncidentWorker_SeaAir.cs" />
+    <Compile Include="MentalState_HuntingForPlayerPlants.cs" />
+    <Compile Include="MentalStateDefOfLocal.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PawnKindDefOfLocal.cs" />
+    <Compile Include="HediffDefOfLocal.cs" />
+    <Compile Include="ThingSetMakerDefOfLocal.cs" />
+    <Compile Include="WeatherDefOfLocal.cs" />
+    <Compile Include="World\FeatureWorker_Special.cs" />
+    <Compile Include="World\SitePartWorker_WorldMeteorite.cs" />
+    <Compile Include="World\WorldObject_VolcanicAsh.cs" />
+    <Compile Include="World\WorldDrawLayer_DeadStars.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

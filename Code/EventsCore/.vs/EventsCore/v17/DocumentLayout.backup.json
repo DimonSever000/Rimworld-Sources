@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dimon\\Documents\\Mods\\EventsCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{426DD724-24A7-4163-8B82-12572FD39059}|EventsCore.csproj|c:\\users\\dimon\\documents\\mods\\eventscore\\settings\\incidentallowedsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{426DD724-24A7-4163-8B82-12572FD39059}|EventsCore.csproj|solutionrelative:settings\\incidentallowedsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{426DD724-24A7-4163-8B82-12572FD39059}|EventsCore.csproj|c:\\users\\dimon\\documents\\mods\\eventscore\\gameconditions\\gamecondition_psystorm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{426DD724-24A7-4163-8B82-12572FD39059}|EventsCore.csproj|solutionrelative:gameconditions\\gamecondition_psystorm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{426DD724-24A7-4163-8B82-12572FD39059}|EventsCore.csproj|C:\\Users\\Dimon\\Documents\\Mods\\EventsCore\\settings\\settingstabrecord_incidentallowedsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{426DD724-24A7-4163-8B82-12572FD39059}|EventsCore.csproj|solutionrelative:settings\\settingstabrecord_incidentallowedsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{426DD724-24A7-4163-8B82-12572FD39059}|EventsCore.csproj|c:\\users\\dimon\\documents\\mods\\eventscore\\incidents\\defmodextension_incidentprops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{426DD724-24A7-4163-8B82-12572FD39059}|EventsCore.csproj|solutionrelative:incidents\\defmodextension_incidentprops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{426DD724-24A7-4163-8B82-12572FD39059}|EventsCore.csproj|c:\\users\\dimon\\documents\\mods\\eventscore\\gameconditions\\gamecondition_deathofsun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{426DD724-24A7-4163-8B82-12572FD39059}|EventsCore.csproj|solutionrelative:gameconditions\\gamecondition_deathofsun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{426DD724-24A7-4163-8B82-12572FD39059}|EventsCore.csproj|c:\\users\\dimon\\documents\\mods\\eventscore\\incidents\\incidentworker_climatechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{426DD724-24A7-4163-8B82-12572FD39059}|EventsCore.csproj|solutionrelative:incidents\\incidentworker_climatechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{426DD724-24A7-4163-8B82-12572FD39059}|EventsCore.csproj|c:\\users\\dimon\\documents\\mods\\eventscore\\incidents\\incidentworker_supervolcanoexplosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{426DD724-24A7-4163-8B82-12572FD39059}|EventsCore.csproj|solutionrelative:incidents\\incidentworker_supervolcanoexplosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{426DD724-24A7-4163-8B82-12572FD39059}|EventsCore.csproj|c:\\users\\dimon\\documents\\mods\\eventscore\\gameconditions\\gamecondition_climatechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{426DD724-24A7-4163-8B82-12572FD39059}|EventsCore.csproj|solutionrelative:gameconditions\\gamecondition_climatechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{426DD724-24A7-4163-8B82-12572FD39059}|EventsCore.csproj|c:\\users\\dimon\\documents\\mods\\eventscore\\gamecomponent_planetweathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{426DD724-24A7-4163-8B82-12572FD39059}|EventsCore.csproj|solutionrelative:gamecomponent_planetweathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{426DD724-24A7-4163-8B82-12572FD39059}|EventsCore.csproj|c:\\users\\dimon\\documents\\mods\\eventscore\\incidents\\incidentproperties_climatechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{426DD724-24A7-4163-8B82-12572FD39059}|EventsCore.csproj|solutionrelative:incidents\\incidentproperties_climatechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{426DD724-24A7-4163-8B82-12572FD39059}|EventsCore.csproj|C:\\Users\\Dimon\\Documents\\Mods\\EventsCore\\settings\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{426DD724-24A7-4163-8B82-12572FD39059}|EventsCore.csproj|solutionrelative:settings\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameCondition_PsyStorm.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\EventsCore\\GameConditions\\GameCondition_PsyStorm.cs",
+              "RelativeDocumentMoniker": "GameConditions\\GameCondition_PsyStorm.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\EventsCore\\GameConditions\\GameCondition_PsyStorm.cs",
+              "RelativeToolTip": "GameConditions\\GameCondition_PsyStorm.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T10:15:26.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameCondition_DeathOfSun.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\EventsCore\\GameConditions\\GameCondition_DeathOfSun.cs",
+              "RelativeDocumentMoniker": "GameConditions\\GameCondition_DeathOfSun.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\EventsCore\\GameConditions\\GameCondition_DeathOfSun.cs",
+              "RelativeToolTip": "GameConditions\\GameCondition_DeathOfSun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAD4vxwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T08:46:39.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IncidentWorker_SupervolcanoExplosion.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\EventsCore\\Incidents\\IncidentWorker_SupervolcanoExplosion.cs",
+              "RelativeDocumentMoniker": "Incidents\\IncidentWorker_SupervolcanoExplosion.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\EventsCore\\Incidents\\IncidentWorker_SupervolcanoExplosion.cs",
+              "RelativeToolTip": "Incidents\\IncidentWorker_SupervolcanoExplosion.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T08:12:40.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IncidentWorker_ClimateChange.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\EventsCore\\Incidents\\IncidentWorker_ClimateChange.cs",
+              "RelativeDocumentMoniker": "Incidents\\IncidentWorker_ClimateChange.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\EventsCore\\Incidents\\IncidentWorker_ClimateChange.cs",
+              "RelativeToolTip": "Incidents\\IncidentWorker_ClimateChange.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwD4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T08:09:40.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameComponent_PlanetWeatherController.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\EventsCore\\GameComponent_PlanetWeatherController.cs",
+              "RelativeDocumentMoniker": "GameComponent_PlanetWeatherController.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\EventsCore\\GameComponent_PlanetWeatherController.cs",
+              "RelativeToolTip": "GameComponent_PlanetWeatherController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T08:03:28.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameCondition_ClimateChange.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\EventsCore\\GameConditions\\GameCondition_ClimateChange.cs",
+              "RelativeDocumentMoniker": "GameConditions\\GameCondition_ClimateChange.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\EventsCore\\GameConditions\\GameCondition_ClimateChange.cs",
+              "RelativeToolTip": "GameConditions\\GameCondition_ClimateChange.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvwwBAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T07:59:13.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IncidentProperties_ClimateChange.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\EventsCore\\Incidents\\IncidentProperties_ClimateChange.cs",
+              "RelativeDocumentMoniker": "Incidents\\IncidentProperties_ClimateChange.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\EventsCore\\Incidents\\IncidentProperties_ClimateChange.cs",
+              "RelativeToolTip": "Incidents\\IncidentProperties_ClimateChange.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T07:58:55.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DefModExtension_IncidentProps.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\EventsCore\\Incidents\\DefModExtension_IncidentProps.cs",
+              "RelativeDocumentMoniker": "Incidents\\DefModExtension_IncidentProps.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\EventsCore\\Incidents\\DefModExtension_IncidentProps.cs",
+              "RelativeToolTip": "Incidents\\DefModExtension_IncidentProps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T07:53:48.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IncidentAllowedSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\EventsCore\\Settings\\IncidentAllowedSettings.cs",
+              "RelativeDocumentMoniker": "Settings\\IncidentAllowedSettings.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\EventsCore\\Settings\\IncidentAllowedSettings.cs",
+              "RelativeToolTip": "Settings\\IncidentAllowedSettings.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwC8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T07:53:24.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SettingsTabRecord_IncidentAllowedSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\EventsCore\\Settings\\SettingsTabRecord_IncidentAllowedSettings.cs",
+              "RelativeDocumentMoniker": "Settings\\SettingsTabRecord_IncidentAllowedSettings.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\EventsCore\\Settings\\SettingsTabRecord_IncidentAllowedSettings.cs",
+              "RelativeToolTip": "Settings\\SettingsTabRecord_IncidentAllowedSettings.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T10:43:31.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\Dimon\\Documents\\Mods\\EventsCore\\Settings\\Settings.cs",
+              "RelativeDocumentMoniker": "Settings\\Settings.cs",
+              "ToolTip": "C:\\Users\\Dimon\\Documents\\Mods\\EventsCore\\Settings\\Settings.cs",
+              "RelativeToolTip": "Settings\\Settings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T10:43:09.16Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
